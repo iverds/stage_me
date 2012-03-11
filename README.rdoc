@@ -1,0 +1,13 @@
+== Stage Me
+
+The idea is a simple app that recieves http-post from github after a push.
+It should provide a simple interface to different applications, and deploy them to a staging area. This could be usefull when there are multiple applications that depend on each other.
+
+
+Following features could be provided:
+
+- Run tests
+- Link to documentation of appliaction
+- Deploy to staging area
+- Update sql-views between applications
+- Show a UI for both tests and doc
